@@ -1,4 +1,6 @@
 # nbdemoapp
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2Fnbdemoapp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2Fnbdemoapp?ref=badge_shield)
+
 
 This application was generated using JHipster 7.7.0, you can find documentation and help at [https://www.jhipster.tech](https://www.jhipster.tech).
 
@@ -241,3 +243,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
 [angular cli]: https://cli.angular.io/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2Fnbdemoapp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2Fnbdemoapp?ref=badge_large)
